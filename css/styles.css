@@ -1,0 +1,112 @@
+body {
+margin: 0;
+text-align: center;
+font-family:'Satisfy';
+color: #3BACB6;
+font-size: 25px;
+}
+
+hr{
+border-color: white;
+border-style: none;
+border-top-style: dotted;
+border-width:5px;
+width:5%;
+}
+
+h1{
+  font-size: 50px;
+  font-family: 'Satisfy', cursive;;
+  margin-top: 0;
+  color: #3BACB6;
+
+}
+h2{
+  font-size: 30px;
+  font-family:'Dancing Script';
+  margin-top: 0;
+  color: #DF7861;
+}
+
+h3{
+  font-size: 30px;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 30px;
+  padding-bottom: 50px;
+  color: #DF7861;
+}
+h4{
+  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 30px;
+  padding-bottom: 50px;
+  color: #3BACB6;
+}
+h5{
+  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  color: #3BACB6;
+}
+
+
+.top-container{
+  background-color: #BDE6F1;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container1{
+  background-color: #BDE6F1;
+  padding-top: 50px;
+  position: relative;
+  padding-bottom: 30px;
+  }
+
+  .Our-services{
+    padding-top: 50px;
+      padding-bottom: 30px;
+      line-height: 1;
+
+  }
+
+
+
+    .Clients{
+      background-color: #BDE6F1;
+      padding-top: 50px;
+        padding-bottom: 30px;
+        line-height: 1;
+      }
+
+
+.bottom-container{
+  background-color: #ECB390;
+  padding-top: 50px;
+  position: relative;
+  }
+
+.NGO-img{
+  width: 15%;
+}
+.CRDF-img{
+  width: 11%
+}
+.CORE-img{
+  width: 11%
+}
+.Freedom-img{
+  width: 11%
+}
+.VOX-img{
+  width: 11%
+}
+.Fulbright-img{
+  width: 11%
+}
+
+
+
+  .Photo-img{
+    width: 15%;
+  }
