@@ -89,6 +89,13 @@ h5{
     color: #3BACB6;
     text-decoration: none;
   }
+  a:hover{
+    color: #BDE6F1
+  }
+  .copyright{
+    color: white;
+    font-size:1rem;
+  }
 
 .NGO-img{
   width: 25%;
