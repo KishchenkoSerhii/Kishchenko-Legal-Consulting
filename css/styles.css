@@ -64,9 +64,10 @@ h5{
   }
 
   .Our-services{
-    padding-top: 50px;
-      padding-bottom: 30px;
-      line-height: 1;
+    width: 70%;
+    margin: auto;
+    line-height: 1;
+
 
   }
 
@@ -87,7 +88,9 @@ h5{
   }
 
 .NGO-img{
-  width: 15%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 .CRDF-img{
   width: 11%
