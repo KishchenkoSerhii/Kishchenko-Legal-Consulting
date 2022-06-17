@@ -85,6 +85,10 @@ h5{
   padding-top: 50px;
   position: relative;
   }
+  a{
+    color: #3BACB6;
+    text-decoration: none;
+  }
 
 .NGO-img{
   width: 25%;
